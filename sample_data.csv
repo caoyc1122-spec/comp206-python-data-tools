@@ -1,0 +1,16 @@
+order_id,customer,product,region,order_date,delivery_date,amount,status,payment_status,priority,notes
+ORD-1001,Alpha Tech,Sensor Module,Shenzhen,2025-06-01,2025-06-05,1250.50,completed,paid,normal,Delivered on time
+ORD-1002,Beta Energy,Battery Pack,Guangzhou,2025-06-02,2025-06-08,5800.00,pending,unpaid,high,Waiting for payment
+ORD-1003,Core Systems,Control Board,Shanghai,2025-06-03,2025-06-09,3200.75,completed,paid,normal,Customer confirmed
+ORD-1004,Delta Power,Charging Module,Beijing,2025-06-04,,7600.00,delayed,partial,urgent,Missing delivery date
+ORD-1005,Echo Devices,Sensor Module,Shenzhen,2025-06-05,2025-06-11,980.00,cancelled,refunded,low,Order cancelled by customer
+ORD-1006,Fusion Labs,Power Adapter,Suzhou,2025-06-06,2025-06-10,2100.00,completed,paid,normal,
+ORD-1007,Green Grid,Battery Pack,Hangzhou,2025-06-07,2025-06-15,8900.00,pending,unpaid,urgent,High value unpaid order
+ORD-1008,Helio Tech,Control Board,Shenzhen,2025-06-08,2025-06-14,4500.25,completed,paid,high,Fast delivery requested
+ORD-1009,Ion Mobility,Charging Module,Shanghai,2025-06-09,2025-06-18,,pending,unpaid,high,Amount missing
+ORD-1010,Jade Energy,Power Adapter,Guangzhou,2025-06-10,2025-06-12,1500.00,completed,paid,normal,Delivered early
+ORD-1011,Kilo Systems,Battery Pack,Beijing,2025-06-11,2025-06-20,10200.00,delayed,partial,urgent,Delayed due to stock issue
+ORD-1012,Lambda Tech,Sensor Module,Suzhou,2025-06-12,2025-06-16,1750.00,completed,paid,normal,
+ORD-1013,Metro Power,Charging Module,Shenzhen,2025-06-13,2025-06-21,6800.00,pending,unpaid,high,Awaiting confirmation
+ORD-1014,Nova Devices,Control Board,Hangzhou,2025-06-14,2025-06-18,3900.00,completed,paid,normal,No issue
+ORD-1015,Orion Labs,Battery Pack,Shanghai,2025-06-15,2025-06-25,12000.00,pending,unpaid,urgent,Large unpaid order
