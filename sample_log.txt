@@ -1,0 +1,10 @@
+2025-06-01 09:00:01 INFO System started
+2025-06-01 09:03:15 INFO Loading order data
+2025-06-01 09:05:22 WARNING Missing delivery date in order ORD-1004
+2025-06-01 09:06:10 ERROR Failed to parse amount in order ORD-1009
+2025-06-01 09:07:43 INFO Payment status checked
+2025-06-01 09:10:05 WARNING Unpaid high value order detected ORD-1007
+2025-06-01 09:12:30 ERROR Database connection timeout
+2025-06-01 09:15:11 INFO Retry connection successful
+2025-06-01 09:18:40 WARNING Urgent order pending review ORD-1011
+2025-06-01 09:20:00 INFO Report generated
