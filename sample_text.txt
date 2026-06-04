@@ -1,0 +1,20 @@
+Customer: Alpha Tech
+Contact Name: Alice Chen
+Email: alice.chen@example.com
+Phone: 123-456-7890
+Product Interest: Sensor Module
+Priority: Normal
+
+Customer: Beta Energy
+Contact Name: Bob Li
+Email: bob.li@example.com
+Phone: 222-333-4444
+Product Interest: Battery Pack
+Priority: High
+
+Customer: Delta Power
+Contact Name: David Wang
+Email: david.wang@example.com
+Phone: 333-888-9999
+Product Interest: Charging Module
+Priority: Urgent
